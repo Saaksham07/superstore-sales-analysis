@@ -4,7 +4,7 @@
 Analysed 1,952 retail transactions from the SuperStore US dataset using SQL and Excel to identify sales trends, regional performance, and customer insights.
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Tools Used
 * PostgreSQL — data querying and analysis
